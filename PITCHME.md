@@ -4,12 +4,13 @@
 ---
 
 ## Slideshow Theme Switcher
-![alt text](BDHistory.PNG) | <span style="font-size:0.6em; color:gray">From the earliest forms of writing to modern data centers, the human race has always gathered information. The rise in technology has led to the overflow of data, which requires more sophisticated data storage systems. Beginning in the 1930s, this timeline covers the explosion of information and how Big Data has created the need to organize and save information. With thanks to Gil Press for his article A Very Short History of Big Data.</span>
+![alt text](BDHistory.PNG)
+<span> 1875 Next --- What is Big Data? </span>
 
 ---
 
 ## Tip!
-For best viewing experience press **F** key to go fullscreen.
+![alt text](BDHistory1.PNG)
 
 ---
 
