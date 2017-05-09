@@ -19,11 +19,10 @@
 
 ## Source
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray">See<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank"> Big Data Wiki</a> for details.</span>
 
 
 +++
-
 
 #### Wiki
 ![alt text](BDHistory1.1.PNG)
@@ -101,6 +100,36 @@
 
 ---
 
+##### <span style="font-size:0.8em; font-weight:bold">1970 <span style="color:#e49436">Relational </span>Data Base</span>
+![alt text](BDHistory14.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1970 <span style="color:#e49436">Relational </span>Data Base</span>
+![alt text](BDHistory14.PNG)
+<span style="font-size:0.6em; color:gray">Press Down key for details.</span
+
++++
+
+## Source
+<span style="font-size:0.6em; color:gray">See <a href="http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/reldb/" target="_blank"> IBM information </a> for details.</span>
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1975 <span style="color:#e49436">The Rise in Two-Way </span>Communication</span>
+![alt text](BDHistory15.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1976 <span style="color:#e49436">Material Requirements </span>Planning Systems (MRP)</span>
+![alt text](BDHistory16.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1980 <span style="color:#e49436">Parkinson's Law </span>of Data</span>
+![alt text](BDHistory16.PNG)
+
+---
 ## Image Slides
 ## [ Background ]
 <span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
