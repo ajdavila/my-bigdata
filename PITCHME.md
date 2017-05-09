@@ -31,7 +31,7 @@
 
 ---
 
-#### 1880 The Start of Information Overload
+<span style="font-size:0.8em; color:black">1880 The Start of Information Overload</span>
 ![alt text](BDHistory2.PNG)
 
 
