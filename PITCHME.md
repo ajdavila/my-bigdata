@@ -37,7 +37,7 @@
 
 ---
 
-#### 1881 The Hollerith Tabulating Machine
+##### <span style="font-size:0.8em; font-weight:bold">1881 <span style="color:#e49436">The Hollerith </span>Tabulating Machine</span>
 ![alt text](BDHistory3.PNG)
 <span style="font-size:0.6em; color:gray"> Press Down key for Summary.</span>  |
 <span style="font-size:0.6em; color:gray"> See Biography <a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank"> Herman Hollerith </a> for details.</span>
@@ -51,28 +51,53 @@
 
 ---
 
-#### 1932 The Population Boom
+##### <span style="font-size:0.8em; font-weight:bold">1932 <span style="color:#e49436">The Population </span>Boom</span>
 ![alt text](BDHistory4.PNG)
 
 ---
 
-#### 1940 The Effect on Libraries
+##### <span style="font-size:0.8em; font-weight:bold">1940 <span style="color:#e49436">The Effect </span>on Libraries</span>
 ![alt text](BDHistory5.PNG)
 
 ---
 
-#### 1941 The Information Explosion
+##### <span style="font-size:0.8em; font-weight:bold">1941 <span style="color:#e49436">The Information </span>Explosion</span>
 ![alt text](BDHistory6.PNG)
 
 ---
 
-#### 1944 The First Warning of Data's Storage and Retrieval Problem
+##### <span style="font-size:0.8em; font-weight:bold">1944 <span style="color:#e49436">The First Warning of Data's Storage </span>and Retrieval Problem</span>
 ![alt text](BDHistory7.PNG)
 
 ---
 
-#### 1948 Shannon's Information Theory
+##### <span style="font-size:0.8em; font-weight:bold">1948 <span style="color:#e49436">Shannon's </span>Information Theory</span>
 ![alt text](BDHistory8.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1956 <span style="color:#e49436">Virtual </span>Memory</span>
+![alt text](BDHistory9.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1961 <span style="color:#e49436">Scientific </span>Knowledge Expands</span>
+![alt text](BDHistory10.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1962 <span style="color:#e49436">Pioneering </span>Speech Recognition</span>
+![alt text](BDHistory11.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1963 <span style="color:#e49436">Looking for an </span>Organizational Solution</span>
+![alt text](BDHistory12.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1966 <span style="color:#e49436">Centralized Computing Systems </span>Enter the Scene </span>
+![alt text](BDHistory13.PNG)
 
 ---
 
