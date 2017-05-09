@@ -162,6 +162,81 @@
 
 ---
 
+##### <span style="font-size:0.8em; font-weight:bold">1996 <span style="color:#e49436">Phenomenal Growth of </span>Computing Power and the Internet </span>
+![alt text](BDHistory26.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1996 <span style="color:#e49436">Business </span>Intelligence 2.0 </span>
+![alt text](BDHistory27.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1997 <span style="color:#e49436">The Problem of </span>Big Data </span>
+![alt text](BDHistory28.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1997 <span style="color:#e49436">The Future of </span>Data Storage </span>
+![alt text](BDHistory29.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1998 <span style="color:#e49436">The Problem with </span>Business Intelligence </span>
+![alt text](BDHistory30.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1999 <span style="color:#e49436">Internet of </span>Thing (IoT) </span>
+![alt text](BDHistory31.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1999 <span style="color:#e49436">Information is </span>Quantified </span>
+![alt text](BDHistory32.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1999 <span style="color:#e49436">Predictive Analysis Changes Business </span>as Usual </span>
+![alt text](BDHistory33.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">2001 <span style="color:#e49436">Software as a </span>Service (SaaS)</span>
+![alt text](BDHistory34.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">2001 <span style="color:#e49436">The 3 Vs </span> </span>
+![alt text](BDHistory35.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">2001 <span style="color:#e49436">Extended </span>ERP </span>
+![alt text](BDHistory36.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">2001 <span style="color:#e49436">Web Services and </span>ERP </span>
+![alt text](BDHistory37.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">2001 <span style="color:#e49436">Focus on Usability </span>for End Users </span>
+![alt text](BDHistory38.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">2001 <span style="color:#e49436">Database Management at </span>the Core </span>
+![alt text](BDHistory39.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">2001 <span style="color:#e49436">Database Management at </span>the Core </span>
+![alt text](BDHistory40.PNG)
+
+---
+
 ## Image Slides
 ## [ Background ]
 <span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
