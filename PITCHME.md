@@ -6,7 +6,7 @@
 ## Big Data TimeLine
 ![alt text](BDHistory.PNG)
 
-<span style="font-size:0.6em; color:gray">See<a href="https://www.forbes.com/sites/gilpress/2013/05/09/a-very-short-history-of-big-data" target="_blank">A Very Short History of Big Data</a>for details.</span>
+<span style="font-size:0.6em; color:gray">See<a href="https://www.forbes.com/sites/gilpress/2013/05/09/a-very-short-history-of-big-data" target="_blank"> A Very Short History of Big Data </a>for details.</span>
 
 
 ---
@@ -14,7 +14,8 @@
 ## 1875 What is Big Data?
 ![alt text](BDHistory1.PNG)
 
----
++++
+
 
 ## Source
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
@@ -22,6 +23,7 @@
 
 
 +++
+
 
 #### Wiki
 ![alt text](BDHistory1.1.PNG)
@@ -37,9 +39,8 @@
 
 ## 1881 The Hollerith Tabulating Machine
 ![alt text](BDHistory3.PNG)
-
-<span style="font-size:0.6em; color:gray">Press Down key for Summary.</span>  |
-<span style="font-size:0.6em; color:gray">See Biography<a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank">Herman Hollerith</a>for details.</span>
+<span style="font-size:0.6em; color:gray"> Press Down key for Summary.</span>  |
+<span style="font-size:0.6em; color:gray"> See Biography <a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank"> Herman Hollerith </a> for details.</span>
 
 
 +++
