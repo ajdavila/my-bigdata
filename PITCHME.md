@@ -37,7 +37,7 @@
 
 ---
 
-## 1881 The Hollerith Tabulating Machine
+# 1881 The Hollerith Tabulating Machine
 ![alt text](BDHistory3.PNG)
 <span style="font-size:0.6em; color:gray"> Press Down key for Summary.</span>  |
 <span style="font-size:0.6em; color:gray"> See Biography <a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank"> Herman Hollerith </a> for details.</span>
@@ -51,45 +51,28 @@
 
 ---
 
-## Image Slides
-## [ Inline ]
-<span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Image-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+# 1932 The Population Boom
+![alt text](BDHistory4.PNG)
 
-+++
+---
 
-#### Make A Visual Statement
+# 1940 The Effect on Libraries
+![alt text](BDHistory5.PNG)
 
-<br>
+---
 
-Use inline images to lend a *visual punch* to your slideshow presentations.
+# 1941 The Information Explosion
+![alt text](BDHistory6.PNG)
 
+---
 
-+++
+# 1944 The First Warning of Data's Storage and Retrieval Problem
+![alt text](BDHistory7.PNG)
 
-<span style="color:gray; font-size:0.7em">Inline Image at <b>Absolute URL</b></span>
+---
 
-![Image-Absolute](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-privateinvestocat.jpg)
-
-<span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
-
-
-+++
-
-<span style="color:gray; font-size:0.7em">Inline Image at GitHub Repo <b>Relative URL</b></span>
-
-![Image-Absolute](assets/octocat-de-los-muertos.jpg)
-
-<span style="color:gray; font-size:0.5em">the <b>Octocat-De-Los-Muertos</b> by <a href="https://github.com/cameronmcefee" target="_blank">cameronmcefee</a></span>
-
-
-+++
-
-<span style="color:gray; font-size:0.7em"><b>Animated GIFs</b> Work Too!</span>
-
-![Image-Relative](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-daftpunkocat.gif)
-
-<span style="color:gray; font-size:0.5em">the <b>Daftpunktocat-Guy</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
+# 1948 Shannon's Information Theory
+![alt text](BDHistory8.PNG)
 
 ---
 
