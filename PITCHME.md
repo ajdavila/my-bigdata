@@ -8,14 +8,12 @@
 
 <span style="font-size:0.6em; color:gray">See<a href="https://www.forbes.com/sites/gilpress/2013/05/09/a-very-short-history-of-big-data" target="_blank"> A Very Short History of Big Data </a>for details.</span>
 
-
 ---
 
 ## 1875 What is Big Data?
 ![alt text](BDHistory1.PNG)
 
 +++
-
 
 ## Source
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
@@ -120,7 +118,7 @@
 ---
 
 ##### <span style="font-size:0.8em; font-weight:bold">1980 <span style="color:#e49436">Parkinson's Law </span>of Data</span>
-![alt text](BDHistory16.PNG)
+![alt text](BDHistory17.PNG)
 
 ---
 ## Image Slides
