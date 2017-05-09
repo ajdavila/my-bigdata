@@ -121,6 +121,37 @@
 ![alt text](BDHistory17.PNG)
 
 ---
+
+##### <span style="font-size:0.8em; font-weight:bold">1983 <span style="color:#e49436">Information Growth and </span>the Broadcasting Industry</span>
+![alt text](BDHistory18.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1985 <span style="color:#e49436">Manufacturing Resources </span>Planning Systems (MRP II)</span>
+![alt text](BDHistory19.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1985 <span style="color:#e49436">The Need for </span>Accurate Data </span>
+![alt text](BDHistory20.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1986 <span style="color:#e49436">From Clay Tablets </span>to Semiconductor Memory</span>
+![alt text](BDHistory21.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1988 <span style="color:#e49436">New Software </span>Systems Surface</span>
+![alt text](BDHistory22.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1989 <span style="color:#e49436">Business </span>Intelligence</span>
+![alt text](BDHistory22.PNG)
+
+---
+
 ## Image Slides
 ## [ Background ]
 <span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
