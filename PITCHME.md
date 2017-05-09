@@ -5,7 +5,8 @@
 
 ## Big Data TimeLine
 ![alt text](BDHistory.PNG)
-<span style="font-size:0.6em; color:gray"> See <a href="https://www.forbes.com/sites/gilpress/2013/05/09/a-very-short-history-of-big-data" target="_blank">A Very Short History of Big Data</a> for details.</span>
+
+<span style="font-size:0.6em; color:gray">See<a href="https://www.forbes.com/sites/gilpress/2013/05/09/a-very-short-history-of-big-data" target="_blank">A Very Short History of Big Data</a>for details.</span>
 
 
 ---
@@ -17,14 +18,13 @@
 
 ## Source
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray"> See <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data Wiki</a> for details.</span>
 
 
 +++
 
 #### Wiki
 ![alt text](BDHistory1.1.PNG)
-
 
 
 ---
@@ -37,22 +37,15 @@
 
 ## 1881 The Hollerith Tabulating Machine
 ![alt text](BDHistory3.PNG)
-
 <span style="font-size:0.6em; color:gray">Press Down key for Summary.</span> |
-<span style="font-size:0.6em; color:gray">See Biography<a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank">Herman Hollerith</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See Biography<a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank">Herman Hollerith</a>for details.</span>
+
 
 +++
 
 #### Herman Hollerith 
 ![alt text](BDHistory3.1.PNG)
 
-<br>
-
-Enjoy 100% reusable code snippets, excellent syntax highlighting, code indentation and styling. 
-
-+++?gist=8da53731fd54bab9d5c6
-
-+++?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
 ---
 
