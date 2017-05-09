@@ -148,7 +148,17 @@
 ---
 
 ##### <span style="font-size:0.8em; font-weight:bold">1989 <span style="color:#e49436">Business </span>Intelligence</span>
-![alt text](BDHistory22.PNG)
+![alt text](BDHistory23.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1992 <span style="color:#e49436">The First Database </span>Report</span>
+![alt text](BDHistory24.PNG)
+
+---
+
+##### <span style="font-size:0.8em; font-weight:bold">1995 <span style="color:#e49436">The World Wide Web </span>Explodes</span>
+![alt text](BDHistory25.PNG)
 
 ---
 
