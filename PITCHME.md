@@ -38,8 +38,9 @@
 
 ##### <span style="font-size:0.8em; font-weight:bold">1881 <span style="color:#e49436">The Hollerith </span>Tabulating Machine</span>
 ![alt text](BDHistory3.PNG)
-<span style="font-size:0.6em; color:gray"> Press Down key for Summary.</span>  |
-<span style="font-size:0.6em; color:gray"> See Biography <a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank"> Herman Hollerith </a> for details.</span>
+
+<span style="font-size:0.6em; color:gray"> Press Down key for Summary.</span> | 
+<span style="font-size:0.6em; color:gray"> See Biography<a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank"> Herman Hollerith</a>for details.</span>
 
 
 +++
@@ -102,12 +103,7 @@
 
 ##### <span style="font-size:0.8em; font-weight:bold">1970 <span style="color:#e49436">Relational </span>Data Base</span>
 ![alt text](BDHistory14.PNG)
-
----
-
-##### <span style="font-size:0.8em; font-weight:bold">1970 <span style="color:#e49436">Relational </span>Data Base</span>
-![alt text](BDHistory14.PNG)
-<span style="font-size:0.6em; color:gray">Press Down key for details.</span
+<span style="font-size:0.6em; color:gray">Press Down key for details.</span>
 
 +++
 
