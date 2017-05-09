@@ -5,7 +5,7 @@
 
 ## Big Data TimeLine
 ![alt text](BDHistory.PNG)
-<span style="font-size:0.6em; color:gray">See <a href="https://www.forbes.com/sites/gilpress/2013/05/09/a-very-short-history-of-big-data" target="_blank">A Very Short History of Big Data</a> for details.</span>
+<span style="font-size:0.6em; color:gray"> See <a href="https://www.forbes.com/sites/gilpress/2013/05/09/a-very-short-history-of-big-data" target="_blank">A Very Short History of Big Data</a> for details.</span>
 
 
 ---
@@ -17,7 +17,7 @@
 
 ## Source
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray"> See <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data Wiki</a> for details.</span>
 
 
 +++
@@ -29,15 +29,13 @@
 
 ---
 
-## 1880
-The Start of Information Overload
+## 1880 The Start of Information Overload
 ![alt text](BDHistory2.PNG)
 
 
 ---
 
-## 1881
-The Hollerith Tabulating Machine
+## 1881 The Hollerith Tabulating Machine
 ![alt text](BDHistory3.PNG)
 
 <span style="font-size:0.6em; color:gray">Press Down key for Summary.</span> |
