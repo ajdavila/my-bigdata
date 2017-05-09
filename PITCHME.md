@@ -37,7 +37,8 @@
 
 ## 1881 The Hollerith Tabulating Machine
 ![alt text](BDHistory3.PNG)
-<span style="font-size:0.6em; color:gray">Press Down key for Summary.</span> |
+
+<span style="font-size:0.6em; color:gray">Press Down key for Summary.</span>  |
 <span style="font-size:0.6em; color:gray">See Biography<a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank">Herman Hollerith</a>for details.</span>
 
 
