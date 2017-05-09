@@ -31,13 +31,13 @@
 
 ---
 
-## 1880 The Start of Information Overload
+#### 1880 The Start of Information Overload
 ![alt text](BDHistory2.PNG)
 
 
 ---
 
-# 1881 The Hollerith Tabulating Machine
+#### 1881 The Hollerith Tabulating Machine
 ![alt text](BDHistory3.PNG)
 <span style="font-size:0.6em; color:gray"> Press Down key for Summary.</span>  |
 <span style="font-size:0.6em; color:gray"> See Biography <a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank"> Herman Hollerith </a> for details.</span>
@@ -51,27 +51,27 @@
 
 ---
 
-# 1932 The Population Boom
+#### 1932 The Population Boom
 ![alt text](BDHistory4.PNG)
 
 ---
 
-# 1940 The Effect on Libraries
+#### 1940 The Effect on Libraries
 ![alt text](BDHistory5.PNG)
 
 ---
 
-# 1941 The Information Explosion
+#### 1941 The Information Explosion
 ![alt text](BDHistory6.PNG)
 
 ---
 
-# 1944 The First Warning of Data's Storage and Retrieval Problem
+#### 1944 The First Warning of Data's Storage and Retrieval Problem
 ![alt text](BDHistory7.PNG)
 
 ---
 
-# 1948 Shannon's Information Theory
+#### 1948 Shannon's Information Theory
 ![alt text](BDHistory8.PNG)
 
 ---
