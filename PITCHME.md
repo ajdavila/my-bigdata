@@ -3,19 +3,21 @@
 
 ---
 
-## Slideshow Theme Switcher
+## Big Data TimeLine
 ![alt text](BDHistory.PNG)
+<span style="font-size:0.6em; color:gray">See <a href="https://www.forbes.com/sites/gilpress/2013/05/09/a-very-short-history-of-big-data" target="_blank">A Very Short History of Big Data</a> for details.</span>
+
 
 ---
 
-## Tip!
+## 1875 What is Big Data?
 ![alt text](BDHistory1.PNG)
 
 ---
 
-## Markdown Slides
+## Source
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="font-size:0.6em; color:gray">See <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data Wiki</a> for details.</span>
 
 
 +++
