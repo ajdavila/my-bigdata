@@ -33,12 +33,12 @@
 ##### <span style="font-size:0.8em; font-weight:bold">1880 <span style="color:#e49436">The Start </span>of Information Overload</span>
 ![alt text](BDHistory2.PNG)
 
-
 ---
 
-##### <span style="font-size:0.8em; font-weight:bold">1881 <span style="color:#e49436">The Hollerith </span>Tabulating Machine</span> ![alt text](BDHistory3.PNG)
-<span style="font-size:0.6em; color:gray">Press Down key for Biography.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank"> Herman Hollerith</a> for details.</span>
+##### <span style="font-size:0.8em; font-weight:bold">1881 <span style="color:#e49436">The Hollerith </span>Tabulating Machine</span> 
+![alt text](BDHistory3.PNG)
+
+<span style="font-size:0.6em; color:gray">Press Down key for Biography.</span> | <span style="font-size:0.6em; color:gray">See <a href="http://www.columbia.edu/cu/computinghistory/hollerith.html" target="_blank"> Herman Hollerith</a> for details.</span>
 
 +++
 
