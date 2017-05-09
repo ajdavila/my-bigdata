@@ -5,7 +5,6 @@
 
 ## Slideshow Theme Switcher
 ![alt text](BDHistory.PNG)
-<span> 1875 Next --- What is Big Data? </span>
 
 ---
 
